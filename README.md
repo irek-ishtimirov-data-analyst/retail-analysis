@@ -11,3 +11,4 @@
 Excel, Google Sheets, функция QUERY, Power Pivot, сводные таблицы, визуализации (графики, дашборды).
 ## Результат:
 Подготовлен аналитический отчёт и интерактивный дашборд, демонстрирующие влияние маркетинговой активности на финансовые показатели компании.
+## Интерактивные дашборды и презентации (Google Sheets): https://docs.google.com/spreadsheets/d/1SdbnM7Rg1MBMQG7huwSoUtxDxKEaMimk2bUYEzxcChc/edit
