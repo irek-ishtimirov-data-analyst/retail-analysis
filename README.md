@@ -8,6 +8,6 @@
 — Рассчитал коэффициенты прироста и динамику ключевых метрик по периодам.\
 — Построил интерактивные дашборды и графики в Google Sheets, визуализирующие результаты анализа.
 ## Используемые инструменты:
-Excel, Google Sheets, функция QUERY, Power Pivot, сводные таблицы, визуализации (графики, дашборды), интерактивные дашборды и презентации (Google Sheets): https://docs.google.com/spreadsheets/d/1SdbnM7Rg1MBMQG7huwSoUtxDxKEaMimk2bUYEzxcChc/edit
+Excel, Google Sheets, функция QUERY, Power Pivot, сводные таблицы, визуализации (графики, дашборды), интерактивные дашборды и презентации (Google Sheets): [здесь](https://docs.google.com/spreadsheets/d/1SdbnM7Rg1MBMQG7huwSoUtxDxKEaMimk2bUYEzxcChc/edit)
 ## Результат:
 Подготовлен аналитический отчёт и интерактивный дашборд, демонстрирующие влияние маркетинговой активности на финансовые показатели компании.
