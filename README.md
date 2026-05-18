@@ -9,6 +9,12 @@
 — Построил интерактивные дашборды и графики в Google Sheets, визуализирующие результаты анализа.
 ## Используемые инструменты:
 Excel, Google Sheets, функция QUERY, Power Pivot, сводные таблицы, визуализации (графики, дашборды).\
-Интерактивные дашборды (Google Sheets): [здесь](https://docs.google.com/spreadsheets/d/1SdbnM7Rg1MBMQG7huwSoUtxDxKEaMimk2bUYEzxcChc/edit)
+
 ## Результат:
 Подготовлен аналитический отчёт и интерактивный дашборд, демонстрирующие влияние маркетинговой активности на финансовые показатели компании.
+
+## Расчёты и графики (Google Sheets):
+Анализ торговых точек [здесь](https://docs.google.com/spreadsheets/d/1ec9by5Z1bglEeDYaqRua8hEOfKX39kH5/edit)
+Влияние технических сбоев и акций [здесь](https://docs.google.com/spreadsheets/d/1QWVAiGU4k2DUivnS3oa0rt4rfOVzTT3h/edit)
+
+### Интерактивные дашборды (Google Sheets): [здесь](https://docs.google.com/spreadsheets/d/1SdbnM7Rg1MBMQG7huwSoUtxDxKEaMimk2bUYEzxcChc/edit)
