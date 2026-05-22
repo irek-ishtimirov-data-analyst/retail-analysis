@@ -13,4 +13,4 @@ Excel, функция QUERY, Power Pivot, сводные таблицы, виз�
 Подготовлен аналитический отчёт, демонстрирующий влияние увеличения количества транзакций на работу серверов и роста количества транзакций через кассы самообслуживания на среднее время обработки платежей.
 
 ## Расчёты и графики (Google Sheets):
-Анализ торговых точек [[здесь](https://docs.google.com/spreadsheets/d/1d1NinU4EQDFd9C8shQSafFOFGCjzJHIzCGCylnjpdS4/edit)]
+Анализ торговых точек [здесь](https://docs.google.com/spreadsheets/d/1d1NinU4EQDFd9C8shQSafFOFGCjzJHIzCGCylnjpdS4/edit)
